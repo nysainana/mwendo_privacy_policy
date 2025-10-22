@@ -36,7 +36,7 @@ Aucune donnée n’est vendue ni louée.
 Chiffrement en chemin et au repos, accès administrateur sur double authentification, audits réguliers.
 
 ## 6. Vos droits
-Vous pouvez consulter, corriger ou supprimer vos données, télécharger un résumé ou demander l’arrêt d’un usage en écrivant à **privacy@mwendo.com**. Réponse sous 30 jours.
+Vous pouvez consulter, corriger ou supprimer vos données, télécharger un résumé ou demander l’arrêt d’un usage en écrivant à **contact@dna.mg**. Réponse sous 30 jours.
 
 ## 7. Transferts hors pays
 Vos données restent dans l’Union européenne. Si un jour nous devions changer, nous vous préviendrons et mettrons en place les garanties requises.
